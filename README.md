@@ -6,7 +6,7 @@
 #### <p align="center">Desc：野生前端菜鸡/年迈的CS1.6死忠粉/狼人杀四字强神/学过几天WEB/箫技惊人</p>  
 #### <p align="center">Play：CS1.6（资深老菜13，突破，辅助，兼职指挥，断后老6），王者荣耀（什么位置都玩，什么位置都菜，没有强力队友我该怎么上王者？），香肠派对（干就一个字，莽就完啦！），组队请私邮箱：chenmr.cyf@qq.com</p>
    
-###  <p align="center">Blog：[psrheartache](http://106.15.225.12)(我的很慢，你要忍一下。)</p>
+###  <p align="center">Blog：[psrheartache](http://106.15.225.12)(我的很慢，你要~忍~等一下。)</p>
 
 <!-- I like -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
