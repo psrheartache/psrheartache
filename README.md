@@ -20,6 +20,6 @@
 
 #### <p align="center">Recently&Focus：[WebSee-前端监控SDK](https://github.com/xy-sea/web-see)</p>  
 
-#### <p align="center">Recently&Focus：[GoView-低代码可视化平台](http://106.15.225.12](https://gitee.com/dromara/go-view#https://gitee.com/link?target=https%3A%2F%2Fwww.mtruning.club%2F)</p>  
+#### <p align="center">Recently&Focus：[GoView-低代码可视化平台](https://gitee.com/dromara/go-view#https://gitee.com/link?target=https%3A%2F%2Fwww.mtruning.club%2F)</p>  
 
 
