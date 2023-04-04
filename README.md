@@ -3,7 +3,7 @@
 
 #### <p align="center">Desc：野生前端菜鸡/年迈的CS1.6死忠粉/狼人杀四字强神/学过几天WEB/箫技惊人</p>  
 #### <p align="center">Experiences：原产地十堰，在广州摸爬起步，武汉扎根🐶🔥的七年前端老菜🐔</p>
-#### <p align="center">Skills：除WebGL外的前端技术外都有所涉猎，带过小老弟，发现过璞玉，管理过小分队，N次搭建过0-1的项目和团队</p>
+#### <p align="center">Skills：除WebGL外的前端技术外都有所涉猎，带过小老弟，发现过璞玉，管理过小队，N次搭建过0-1的项目和团队</p>
 #### <p align="center">Hobbies：会丢丢Linux&Shell，搞过一些部署和游戏服务器搭建，魔改过一些大家没听过的脚本</p>
 #### <p align="center">Play：CS1.6（资深老菜13，突破，辅助，兼职指挥，断后老6），王者荣耀（什么位置都玩，什么位置都菜，没有强力队友我该怎么上王者？），香肠派对（干就一个字，莽就完啦！），组队请私邮箱：chenmr.cyf@qq.com</p>
    
@@ -16,10 +16,12 @@
   <img src="https://raw.githubusercontent.com/dohooo/dohooo/output/github-contribution-grid-snake.svg" />  
 </p>
 
-#### <p align="center">Recently&Focus：[LogicFlow-自动化流程](https://github.com/didi/LogicFlow)</p>
+### Recently&Focus：
 
-#### <p align="center">Recently&Focus：[WebSee-前端监控SDK](https://github.com/xy-sea/web-see)</p>  
++ [LogicFlow-自动化流程](https://github.com/didi/LogicFlow)
 
-#### <p align="center">Recently&Focus：[GoView-低代码可视化平台](https://gitee.com/dromara/go-view#https://gitee.com/link?target=https%3A%2F%2Fwww.mtruning.club%2F)</p>  
++ [WebSee-前端监控SDK](https://github.com/xy-sea/web-see) 
+
++ [GoView-低代码可视化平台](https://gitee.com/dromara/go-view#https://gitee.com/link?target=https%3A%2F%2Fwww.mtruning.club%2F)
 
 
