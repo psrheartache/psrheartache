@@ -18,7 +18,7 @@ jobs:
 
           user: yetone
           base: header, activity, repositories, metadata
-          config_timezone: Asia/Wuhan
+          config_timezone: Asia/Shanghai
           repositories_skipped: psrheartache
           optimize: svg
           experimental_features: --optimize-svg
