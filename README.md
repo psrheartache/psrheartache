@@ -7,7 +7,7 @@
 #### <p align="center">Hobbies：会撸SQL和MangoDB,会丢丢Linux&Shell，搞过一些部署和游戏服务器搭建，魔改过一些大家没听过的脚本</p>
 #### <p align="center">Play：CS1.6（资深老菜13，突破，辅助，兼职指挥，断后老6），王者荣耀（什么位置都玩，什么位置都菜，没有强力队友我该怎么上王者？），香肠派对（干就一个字，莽就完啦！），组队请私邮箱：chenmr.cyf@qq.com</p>
    
-###  <p align="center">Blog：[psrheartache](http://106.15.225.12)(我的很慢，你要~忍~等一下)</p>
+###  <p align="center">Blog：[psrheartache](https://psrheartache.vercel.app/)(我的很慢，你要~忍~等一下)</p>
 
 <!-- I like -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
