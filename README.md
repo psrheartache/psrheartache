@@ -10,10 +10,10 @@
 ###  <p align="center">Blog：[psrheartache](https://psrheartache.vercel.app/)(我的很慢，你要~忍~等一下)</p>
 
 <!-- I like -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
+<div align="center"><img src="./images/love-code.png" /></div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dohooo/dohooo/output/github-contribution-grid-snake.svg" />  
+  <img src="./images/github-contribution-grid-snake.svg" />  
 </p>
 
 ### Recently&Focus：
@@ -26,3 +26,11 @@
 
 
 ![](https://access-counter.vercel.app/api/counter?name=psrheartache)
+
+<p align="center">
+  <img src="./images/freedom.gif" />  
+</p>
+
+<p align="center">
+  <img src="./images/BR3AK24ROUGH-T1M.jpg" />  
+</p>
