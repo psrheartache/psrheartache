@@ -17,6 +17,7 @@
 </p>
 
 ### Recently&Focus：
++ [谷歌浏览器插件V3版本-MVP-DEMO](https://github.com/psrheartache/crx-v3-project)
 
 + [LogicFlow-自动化流程](https://github.com/didi/LogicFlow)
 
