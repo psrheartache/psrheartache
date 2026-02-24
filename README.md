@@ -1,5 +1,5 @@
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Chinfal;+Welcome+to+My+Profile!;Over+9+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Chinfal;+Welcome+to+My+Profile!;Over+10+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
 #### <p align="center">Desc：野生前端菜鸡/年迈的CS1.6死忠粉/CSGO空龄晕车玩家/CS2完美5E双S弱🐔/狼人杀四字强神/学过几天WEB/箫技惊人</p>  
 #### <p align="center">Experiences：原产地十堰，在广州摸爬起步，武汉扎根🐶🔥的十年前端老菜🐔</p>
