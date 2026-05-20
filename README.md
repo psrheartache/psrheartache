@@ -18,6 +18,8 @@
 </p>
 
 ### Recently&Focus：
++ [CS2洞察智能体-免费、无限制的CS2高光自动剪辑神器](https://github.com/DrEAmSs59/CS2-insight-agent)
+
 + [CrxV3Project-谷歌浏览器插件V3版本-MVP-DEMO](https://github.com/psrheartache/crx-v3-project)
 
 + [LogicFlow-自动化流程](https://github.com/didi/LogicFlow)
